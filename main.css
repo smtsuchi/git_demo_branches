@@ -1,0 +1,8 @@
+.main__btn {
+    background-color: black;
+}
+
+.main__rounded {
+    border: 1px solid rgb(109, 109, 109);
+    border-radius: 40px;
+}
